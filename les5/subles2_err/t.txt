@@ -1,0 +1,5 @@
+input the int value i:
+input the int value j:
+10/2=5
+input the int value i:
+input the int value j:
